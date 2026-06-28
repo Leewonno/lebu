@@ -4,7 +4,7 @@
 
 LEBU는 부산의 주요 관광지와 맛집 정보를 제공하는 웹사이트입니다. 실시간 날씨 정보, 다국어 지원을 통해 부산을 방문하는 관광객들에게 유용한 정보를 제공합니다.
 
-[🔗 배포 링크](https://poetic-druid-deac2a.netlify.app/)
+[🔗 배포 링크](https://gobusan.netlify.app/)
 
 <br />
 
